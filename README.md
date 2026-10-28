@@ -180,7 +180,7 @@ Suggestions and improvements are welcome.
 
 ## 📄 License
 
-No license has been specified yet.
+This project is licensed under the MIT License.
 
 ---
 
