@@ -1,0 +1,15 @@
+
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.env
+
+# Dataset folders
+PlantVillage/
+Potato/
+
+# Trained model files (upload separately if needed)
+model.h5
+potato_disease_model.keras
